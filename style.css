@@ -23,7 +23,7 @@ p{
 }
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
     color: #000;
-    /* background: #fff; */
+    background: #fff; 
 }
 .navbar-light .navbar-nav .active>.nav-link:hover{
     color: #000;
